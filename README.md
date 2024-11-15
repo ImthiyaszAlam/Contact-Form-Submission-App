@@ -34,7 +34,6 @@ This is an Android app designed to collect user details through a contact form w
 
 ## Installation
 
-The command for cloning a repository is incorrect. Here's the corrected version:
 
 ---
 

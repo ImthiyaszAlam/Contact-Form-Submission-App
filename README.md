@@ -60,7 +60,7 @@ To clone this repository to your local machine, follow these steps:
 
 ### Option 2: Download the Zip Folder
 
-1. Go to the [GitHub repository](git clone https://github.com/ImthiyaszAlam/Contact-Form-Submission-App).
+1. Go to the this repo(git clone https://github.com/ImthiyaszAlam/Contact-Form-Submission-App).
 2. Click the "Code" button and select "Download ZIP."
 3. Extract the ZIP folder to a location on your computer.
 4. Open the extracted folder in Android Studio and run the app on your device or emulator.
